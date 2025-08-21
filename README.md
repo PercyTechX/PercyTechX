@@ -1,24 +1,22 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/PercyTechX/PercyTechX/refs/heads/main/imagenes/pt3-100.png) Hola, mi nombre es Percy Nazario 👋
-### Freelance fullstack iOS & Android engineer
+### AI & Data Analytics | Business Automation (Power Platform & Microsoft 365) | Developer Enthusiast & Educator
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
+![https://github.com/PercyTechX](./)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC35aekv-xt7f-wii0IQiWxQ?style=social)](https://www.youtube.com/@percytech)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Percy_Tech?style=social)](https://x.com/Percy_Tech)
+![GitHub Followers](https://img.shields.io/github/followers/PercyTechX?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/PercyTechX?style=social)
 
-Soy ingeniero de software profesional desde 2010.
+Soy ingeniero empresarial dedicado a las implementación tecnología para las empresas.
 
-He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
+He colaborado en proyectos de transformación digital en distintos sectores, trabajando con herramientas como, SQL, Python, JS, HTML, CSS, Microsoft 365, Power Apps y automatización de procesos en Power Automate, siempre con un enfoque en optimizar la operación y facilitar la toma de decisiones mediante dashboards y analítica de datos y automatización.
 
-Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
+He participado en la creación de GDS infraestructura, Huaral Courier  empresas dedicadas a la construcción y de mensajería y transporte de mercadería, impulsando su identidad corporativa transformación digital para fortalecer la gestión y el dando el soporte tecnológico que se requiere.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
-> 
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
+Paralelamente, dedico parte de mi tiempo a la divulgación de inteligencia artificial y análisis de datos, creando contenido educativo para que más personas puedan comprender y aplicar estas tecnologías en su vida profesional, con un estilo accesible y práctico.
+
+Mi propósito es claro: unir la ingeniería, la innovación, la inteligencia artificial y la educación, construyendo soluciones que generen impacto real en las personas y en las organizaciones.
 
 ## Encuéntrame en:
 
