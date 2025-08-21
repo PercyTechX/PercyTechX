@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/PercyTechX/PercyTechX/refs/heads/main/imagenes/pt3-100.png) Hola, mi nombre es Percy Nazario 👋
+# ![https://youtube.com/@percytech](https://raw.githubusercontent.com/PercyTechX/PercyTechX/refs/heads/main/imagenes/pt3-100.png) Hola, mi nombre es Percy Nazario 👋
 ### AI & Data Analytics | Business Automation (Power Platform & Microsoft 365) | Developer Enthusiast & Educator
 
 ![https://github.com/PercyTechX](./)
