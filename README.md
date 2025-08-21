@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Percy Nazario 👋
+# ![https://mouredev.com](https://raw.githubusercontent.com/PercyTechX/PercyTechX/refs/heads/main/imagenes/pt3-100.png) Hola, mi nombre es Percy Nazario 👋
 ### Freelance fullstack iOS & Android engineer
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
