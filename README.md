@@ -1,4 +1,4 @@
-# ![https://youtube.com/@percytech](https://raw.githubusercontent.com/PercyTechX/PercyTechX/refs/heads/main/imagenes/pt3-100.png) Hola, mi nombre es Percy Nazario 👋
+# ![https://youtube.com/@percytech](https://github.com/PercyTechX/PercyTechX/blob/main/imagenes/percytech50.png?raw=true) Hola, mi nombre es Percy Nazario 👋
 ### AI & Data Analytics | Business Automation (Power Platform & Microsoft 365) | Developer Enthusiast & Educator
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC35aekv-xt7f-wii0IQiWxQ?style=social)](https://www.youtube.com/@percytech)
