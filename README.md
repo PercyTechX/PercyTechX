@@ -1,8 +1,6 @@
 # ![https://youtube.com/@percytech](https://raw.githubusercontent.com/PercyTechX/PercyTechX/refs/heads/main/imagenes/pt3-100.png) Hola, mi nombre es Percy Nazario 👋
 ### AI & Data Analytics | Business Automation (Power Platform & Microsoft 365) | Developer Enthusiast & Educator
 
-![https://github.com/PercyTechX](./)
-
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC35aekv-xt7f-wii0IQiWxQ?style=social)](https://www.youtube.com/@percytech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Percy_Tech?style=social)](https://x.com/Percy_Tech)
 ![GitHub Followers](https://img.shields.io/github/followers/PercyTechX?style=social)
@@ -29,13 +27,17 @@ Mi propósito es claro: unir la ingeniería, la innovación, la inteligencia art
 [![Telegram](https://img.shields.io/badge/Telegram-@percy.tech-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/PercyTech)
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-PercyTech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://whatsapp.com/channel/0029VbAr0x2EgGfNkuSzXo1S)
 
-
 # Algunos proyectos
 
 ## Python for Analytics: Curso gratis
 
 <a href=""><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
+[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)]()
+
+<img src="https://github.com/PercyTechX/PercyTechX/blob/main/imagenes/percytechparagh.png?raw=true" 
+     alt="PercyTech" 
+     width="600" 
+     height="250">
 
 
