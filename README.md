@@ -30,6 +30,6 @@ Mi propósito es claro: unir la ingeniería, la innovación, la inteligencia art
 # Algunos proyectos
 
 * [Python for Analytics](https://percytechx.github.io/Python-For-Anlytics/)
-* [Power Query]()
+* [Power Query](https://percytechx.github.io/Power-Query/)
 
 
