@@ -29,15 +29,7 @@ Mi propósito es claro: unir la ingeniería, la innovación, la inteligencia art
 
 # Algunos proyectos
 
-## Python for Analytics: Curso gratis
-
-<a href=""><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)]()
-
-<img src="https://github.com/PercyTechX/PercyTechX/blob/main/imagenes/percytechparagh.png?raw=true" 
-     alt="PercyTech" 
-     width="600" 
-     height="250">
+* [Python for Analytics](https://percytechx.github.io/Python-For-Anlytics/)
+* [Power Query]()
 
 
