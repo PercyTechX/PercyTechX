@@ -10,7 +10,9 @@ Soy ingeniero empresarial dedicado a las implementación tecnología para las em
 
 He colaborado en proyectos de transformación digital en distintos sectores, trabajando con herramientas como, SQL, Python, JS, HTML, CSS, Microsoft 365, Power Apps y automatización de procesos en Power Automate, siempre con un enfoque en optimizar la operación y facilitar la toma de decisiones mediante dashboards y analítica de datos y automatización.
 
-He participado en la creación de GDS infraestructura, Huaral Courier  empresas dedicadas a la construcción y de mensajería y transporte de mercadería, impulsando su identidad corporativa transformación digital para fortalecer la gestión y el dando el soporte tecnológico que se requiere.
+He desarrollado de tusueldo.pe, una plataforma digital dedicada a la transparencia salarial en Perú, que permite a los usuarios consultar, comparar, mediante una calculadora de beneficios sociales como son las CTS, Gratificación, Liquidación entre otros.
+
+Asimismo, he estado involucrado en la creación de GDS Infraestructura y Huaral Courier, empresas dedicadas respectivamente a la construcción y al reparto de mercadería. En estos proyectos, impulsé su identidad corporativa y lideré su transformación digital, implementando soluciones tecnológicas que optimizaron sus procesos operativos, mejoraron la gestión interna y elevaron su competitividad en el mercado. En todos los casos, brindé el soporte tecnológico integral que cada organización requirió para su crecimiento sostenible y su adaptación al entorno digital actual.
 
 Paralelamente, dedico parte de mi tiempo a la divulgación de inteligencia artificial y análisis de datos, creando contenido educativo para que más personas puedan comprender y aplicar estas tecnologías en su vida profesional, con un estilo accesible y práctico.
 
