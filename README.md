@@ -31,5 +31,6 @@ Mi propósito es claro: unir la ingeniería, la innovación, la inteligencia art
 
 * [Python for Analytics](https://percytechx.github.io/Python-For-Anlytics/)
 * [Power Query](https://percytechx.github.io/Power-Query/)
+* [TuSueldo.pe](https://tusueldo.pe)
 
 
