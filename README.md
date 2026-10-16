@@ -1,38 +1,63 @@
-# ![https://youtube.com/@percytech](https://github.com/PercyTechX/PercyTechX/blob/main/imagenes/percytech50.png?raw=true) Hola, mi nombre es Percy Nazario 👋
-### AI & Data Analytics | Business Automation (Power Platform & Microsoft 365) | Developer Enthusiast & Educator
+<p align="center">
+  <img alt="Percy Nazario — Machine Learning · Analítica de Datos · Desarrollo Full Stack" src="imagenes/banner.png" width="100%">
+</p>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC35aekv-xt7f-wii0IQiWxQ?style=social)](https://www.youtube.com/@percytech)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Percy_Tech?style=social)](https://x.com/Percy_Tech)
-![GitHub Followers](https://img.shields.io/github/followers/PercyTechX?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/PercyTechX?style=social)
+<p align="center">
+  <a href="https://www.linkedin.com/in/percy-nazario/"><img src="https://img.shields.io/badge/LinkedIn-percy--nazario-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jpnazariop@gmail.com"><img src="https://img.shields.io/badge/Email-jpnazariop%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.tusueldo.pe"><img src="https://img.shields.io/badge/Web-tusueldo.pe-0B1D2A?style=flat-square&logo=googlechrome&logoColor=white" alt="TuSueldo.pe"></a>
+  <a href="https://www.youtube.com/@percytech"><img src="https://img.shields.io/badge/YouTube-Percy_Tech-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
 
-Soy ingeniero empresarial dedicado a las implementación tecnología para las empresas.
+## Sobre mí
 
-He colaborado en proyectos de transformación digital en distintos sectores, trabajando con herramientas como, SQL, Python, JS, HTML, CSS, Microsoft 365, Power Apps y automatización de procesos en Power Automate, siempre con un enfoque en optimizar la operación y facilitar la toma de decisiones mediante dashboards y analítica de datos y automatización.
+Analista de Datos y Sistemas en **GDS Infraestructura** y maestrando en **Inteligencia Artificial en la UNI**, con base en Investigación Operativa (UNMSM). Construyo modelos de machine learning y soluciones de datos que llegan a producción: visión por computador, forecasting y automatización de procesos.
 
-He desarrollado de tusueldo.pe, una plataforma digital dedicada a la transparencia salarial en Perú, que permite a los usuarios consultar, comparar, mediante una calculadora de beneficios sociales como son las CTS, Gratificación, Liquidación entre otros.
+- **Ahora:** investigo un traductor de Lengua de Señas Peruana a lenguaje natural para atención médica (visión por computador + NLP en un sistema embebido).
+- **En el trabajo:** integro fuentes de datos, defino reglas de calidad y construyo indicadores de cumplimiento (SLA) para más de 1.700 tickets de mantenimiento.
+- **También enseño:** comparto contenido sobre IA y análisis de datos en [YouTube](https://www.youtube.com/@percytech).
 
-Asimismo, he estado involucrado en la creación de GDS Infraestructura y Huaral Courier, empresas dedicadas respectivamente a la construcción y al reparto de mercadería. En estos proyectos, impulsé su identidad corporativa y lideré su transformación digital, implementando soluciones tecnológicas que optimizaron sus procesos operativos, mejoraron la gestión interna y elevaron su competitividad en el mercado. En todos los casos, brindé el soporte tecnológico integral que cada organización requirió para su crecimiento sostenible y su adaptación al entorno digital actual.
+## Proyectos destacados
 
-Paralelamente, dedico parte de mi tiempo a la divulgación de inteligencia artificial y análisis de datos, creando contenido educativo para que más personas puedan comprender y aplicar estas tecnologías en su vida profesional, con un estilo accesible y práctico.
+| Proyecto | Qué hace | Stack | Resultado |
+|---|---|---|---|
+| [**Cumplimiento de EPP con YOLOv8**](https://github.com/PercyTechX/epp-yolo-compliance) | Detecta casco y chaleco en obras y clasifica a cada trabajador como conforme, no conforme o indeterminado. | YOLOv8 · PyTorch · Kaggle | mAP@0.5 de **0,771** en 3.895 imágenes de prueba; ≥ 0,947 en las clases críticas |
+| [**Lector de placas peruanas**](https://github.com/PercyTechX/PercyTechX/blob/main/MIA_YOLO_OCR.ipynb) | Detecta placas con YOLO11 y las lee con un modelo de visión y lenguaje, con seguimiento y votación por placa en video. | YOLO11 · Qwen2.5-VL · Roboflow | mAP@0.5 de **0,986** en validación |
+| **Forecasting de tráfico en peajes** | Pronostica el tráfico vehicular y proyecta el costo de los peajes a 3 años. | Python · ARIMA / SARIMA | MAPE **< 5 %** con backtesting |
+| [**RindePe**](https://github.com/PercyTechX/rindepe-demo) | Control de caja chica para técnicos de campo: flujo de aprobación, KPIs en tiempo real y hoja resumen en PDF. | React · TypeScript · Node.js | En producción en una empresa de ingeniería |
+| [**TuSueldo.pe**](https://www.tusueldo.pe) | Calculadoras laborales para trabajadores peruanos: CTS, gratificación, vacaciones, liquidación y sueldo neto. | HTML · CSS · JavaScript | En producción |
 
-Mi propósito es claro: unir la ingeniería, la innovación, la inteligencia artificial y la educación, construyendo soluciones que generen impacto real en las personas y en las organizaciones.
+**Proyectos profesionales** (código privado por contener datos de clientes):
+- **Portal de seguimiento de SLA multicliente:** integra ERP, GLPI y correo, aplica 15 reglas de calidad de datos y redujo el reporte semanal para gerencia de 1 día a 5 minutos.
+- **Sistema de RRHH en producción:** más de 20 módulos, asistencia por GPS con geocerca e integración con SharePoint vía Microsoft Graph. Ahorra 48 horas al mes.
 
-## Encuéntrame en:
+## Stack
 
-[![YouTube](https://img.shields.io/badge/YouTube-Percy_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@percytech)
-[![Instagram](https://img.shields.io/badge/Instagram-@PercyTech-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/percytech)
-[![TikTok](https://img.shields.io/badge/TikTok-@percy.tech-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@percy.tech)
-[![Facebook](https://img.shields.io/badge/Facebook-@percytechx-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/people/Percytechx-Desarrollador-Full-Stack-Tecnolog%C3%ADa/61567828184910/)
-[![Link](https://img.shields.io/badge/Links-percytech-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://linktr.ee/percytech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Percy_Tech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/percy-nazario)
-[![Telegram](https://img.shields.io/badge/Telegram-@percy.tech-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/PercyTech)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-PercyTech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://whatsapp.com/channel/0029VbAr0x2EgGfNkuSzXo1S)
+**Machine learning y datos**
 
-# Algunos proyectos
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 
-* [Python for Analytics](https://percytechx.github.io/Python-For-Anlytics/)
-* [Power Query](https://percytechx.github.io/Power-Query/)
-* [TuSueldo.pe](https://github.com/PercyTechX/TuSueldoPe)
+**Desarrollo**
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_APIs-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## Material educativo
+
+- [Python for Analytics](https://percytechx.github.io/Python-For-Anlytics/)
+- [Power Query](https://percytechx.github.io/Power-Query/)
+
+---
+
+<p align="center"><sub>¿Trabajas en analytics o machine learning? Escríbeme a <a href="mailto:jpnazariop@gmail.com">jpnazariop@gmail.com</a> o por <a href="https://www.linkedin.com/in/percy-nazario/">LinkedIn</a>.</sub></p>
