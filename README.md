@@ -22,7 +22,7 @@ Analista de Datos y Sistemas en **GDS Infraestructura** y maestrando en **Inteli
 | Proyecto | Qué hace | Stack | Resultado |
 |---|---|---|---|
 | [**Cumplimiento de EPP con YOLOv8**](https://github.com/PercyTechX/epp-yolo-compliance) | Detecta casco y chaleco en obras y clasifica a cada trabajador como conforme, no conforme o indeterminado. | YOLOv8 · PyTorch · Kaggle | mAP@0.5 de **0,771** en 3.895 imágenes de prueba; ≥ 0,947 en las clases críticas |
-| [**Lector de placas peruanas**](github.com/PercyTechX/lector-placas-peru) | Detecta placas con YOLO11 y las lee con un modelo de visión y lenguaje, con seguimiento y votación por placa en video. | YOLO11 · Qwen2.5-VL · Roboflow | mAP@0.5 de **0,986** en validación |
+| [**Lector de placas peruanas**](https://github.com/PercyTechX/lector-placas-peru) | Detecta placas con YOLO11 y las lee con un modelo de visión y lenguaje, con seguimiento y votación por placa en video. | YOLO11 · Qwen2.5-VL · Roboflow | mAP@0.5 de **0,986** en validación |
 | **Forecasting de tráfico en peajes** | Pronostica el tráfico vehicular y proyecta el costo de los peajes a 3 años. | Python · ARIMA / SARIMA | MAPE **< 5 %** con backtesting |
 | [**RindePe**](https://github.com/PercyTechX/rindepe-demo) | Control de caja chica para técnicos de campo: flujo de aprobación, KPIs en tiempo real y hoja resumen en PDF. | React · TypeScript · Node.js | En producción en una empresa de ingeniería |
 | [**TuSueldo.pe**](https://www.tusueldo.pe) | Calculadoras laborales para trabajadores peruanos: CTS, gratificación, vacaciones, liquidación y sueldo neto. | HTML · CSS · JavaScript | En producción |
