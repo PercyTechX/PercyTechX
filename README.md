@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Percy Nazario — Machine Learning · Analítica de Datos · Desarrollo Full Stack" src="imagenes/baner_github.jfif" width="100%">
+  <img alt="Percy Nazario — Machine Learning · Analítica de Datos · Desarrollo Full Stack" src="imagenes/baner.png" width="100%">
 </p>
 
 <p align="center">
